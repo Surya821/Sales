@@ -1,6 +1,10 @@
 from flask import Flask, request, render_template
 import pickle
 import numpy as np
+import warnings
+
+# Suppress the XGBoost warning
+warnings.filterwarnings('ignore', category=UserWarning)
 
 app = Flask(__name__)
 
@@ -29,5 +33,5 @@ def predict():
     return render_template('index.html', prediction_text=output_message)
 
 # Only keep the app object; do not run server on Vercel
-# if __name__ == '__main__':
-#     app.run(debug=True)
+if __name__ == '__main__':
+    app.run(debug=True)
