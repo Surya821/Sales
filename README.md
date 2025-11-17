@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Home Desktop" src="screenshots/home-desktop.png" />
+<img width="1920" height="1080" alt="Home Desktop" src="screenshots/home.png" />
 
 <div id="top"></div>
 
@@ -22,16 +22,6 @@
 ![Render](https://img.shields.io/badge/Render-000000.svg?style=flat&logo=render&logoColor=white)
 
 </div>
-
----
-
-## 📸 Screenshot
-
-### 🖥️ Desktop View
-
-| Home |
-|:--:|
-| ![Home](screenshots/home.png) |
 
 ---
 
