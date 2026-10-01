@@ -7,9 +7,9 @@
 # 🛒 SALES VISION
 *A Retail Sales Prediction Web Application Using Machine Learning*
 
-![last-commit](https://img.shields.io/github/last-commit/Surya821/SalesVision?style=flat&logo=git&logoColor=white&color=1E90FF)
-![repo-top-language](https://img.shields.io/github/languages/top/Surya821/SalesVision?style=flat&color=1E90FF)
-![repo-language-count](https://img.shields.io/github/languages/count/Surya821/SalesVision?style=flat&color=1E90FF)
+![last-commit](https://img.shields.io/github/last-commit/Surya821/Sales?style=flat&logo=git&logoColor=white&color=1E90FF)
+![repo-top-language](https://img.shields.io/github/languages/top/Surya821/Sales?style=flat&color=1E90FF)
+![repo-language-count](https://img.shields.io/github/languages/count/Surya821/Sales?style=flat&color=1E90FF)
 
 **Tech Stack Used**
 
